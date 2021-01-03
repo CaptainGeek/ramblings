@@ -9,5 +9,9 @@ This is a change made on the "readme-edits" branch, as it is was supposed to be.
 
 * Another oddity of Git is that feature branches are not useful anymore after they are merged using "pull-requests", they can be safely deleted, and the website prompts to do that (at some point).
 
+Task list:
+- Should delete unused/merged feature branches
+- Perform the same operations from the CLI/GitBash prompt
+
 All the best,
-Cpt.Geek
+Captain Geek
