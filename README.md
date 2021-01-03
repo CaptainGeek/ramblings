@@ -7,3 +7,7 @@ This is a change made on the "readme-edits" branch, as it is was supposed to be.
 
 ## Note to self #1: NEVER commit on the "master" branch, always use a feature branch instead and then merge it.
 
+Another oddity of Git is that feature branches are not useful anymore after they are merged using "pull-requests", they can be safely deleted, and the website prompts to do that (at some point).
+
+All the best,
+Cpt.Geek
