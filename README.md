@@ -12,6 +12,8 @@ This is a change made on the "readme-edits" branch, as it is was supposed to be.
 Task list:
 - [x] Should delete unused/merged feature branches
 - [ ] Perform the same operations from the CLI/GitBash prompt (pending)
+Have you tried turning-it-ON-and-OFF? Maybe a Windows restart will fix the issue.
+- [ ] Check out linking issues to pull-requests: https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue
 
 All the best,
 Captain Geek
