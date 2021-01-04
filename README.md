@@ -12,6 +12,7 @@ This is a change made on the "readme-edits" branch, as it is was supposed to be.
 * Useful links:
 * * https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md - EMOJI Cheat Sheet
 * * GIT Flow diagram https://github.com/arslanbilal/git-cheat-sheet/raw/master/Img/git-flow-commands-without-flow.png
+* * Understanding the GitHub flow - https://guides.github.com/introduction/flow/
 
 Task list:
 - [x] Should delete unused/merged feature branches
